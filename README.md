@@ -1,5 +1,7 @@
 # gaslog
 
+For the overall design, see the [Design Document](./docs/Design.md).
+
 # Setup dev environment
 
 ## Project node version
