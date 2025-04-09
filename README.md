@@ -2,6 +2,7 @@
 
 For the overall design, see the [Design Document](./docs/Design.md).
 For the architecture decision records, see the [ADR folder](./docs/adr).
+For user stories, see the [User Stories Document](./docs/User_stories.md).
 
 # Setup dev environment
 
